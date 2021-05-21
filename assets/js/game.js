@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 // fight()
 
-
-=======
->>>>>>> 07d7b92c725e9e5f8a461cd37bb3c1874219e7a3
 var playerName = window.prompt("What is your robot's name?");
 var playerHealth = 100;
 var playerAttack = 10;
@@ -12,12 +8,8 @@ var playerMoney = 10;
  // You can also log multiple values at once like this
 console.log(playerName, playerAttack, playerHealth);
 
-<<<<<<< HEAD
 var enemyNames = ["Roborto", "Amy Android", "Robo Trumble"];
 console.log(enemyNames);
-=======
-var enemyName = "Roborto";
->>>>>>> 07d7b92c725e9e5f8a461cd37bb3c1874219e7a3
 var enemyHealth = 50;
 var enemyAttack = 12;
 
